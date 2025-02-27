@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stefano!<br><br>🌟 Junior Full-Stack Developer focused on creating modern web applications.<br>💻 Skilled in Laravel 11, JavaScript, HTML, CSS, and MySQL.<br>📚 Continuously improving my skills to build efficient and user-friendly solutions.<br><br>💡 What I Do:<br>- Build dynamic and responsive web applications.<br>- Develop robust back-end systems with Laravel and MySQL.<br>- Design clean and intuitive front-end interfaces.
+👋 Hi, I'm Stefano!<br><br>🌟 Full-Stack Developer focused on creating modern web applications.<br>💻 Skilled in Laravel 11, JavaScript, HTML, CSS, and MySQL.<br>📚 Continuously improving my skills to build efficient and user-friendly solutions.<br><br>💡 What I Do:<br>- Build dynamic and responsive web applications.<br>- Develop robust back-end systems with Laravel and MySQL.<br>- Design clean and intuitive front-end interfaces.
 
 
 ## 🌐 Socials:
